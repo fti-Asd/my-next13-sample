@@ -2,6 +2,7 @@
   "name": "my-next13-sample",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.sepehrlearn.freehost.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
